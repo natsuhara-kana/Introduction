@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Jay-Ann! 
+# 👋 Hello, I'm Jay-Ann! My preferred name is Kana, but either way works! 
 
 Bilingual BSIT Honors Graduate (2025) and Certified AWS Cloud Architect specializing in **QA Engineering & Test Automation**. Actively targeting entry-level QA Engineer and Software Test Analyst pathways within Tokyo's global enterprise technology ecosystem.
 
